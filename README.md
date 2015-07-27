@@ -15,4 +15,4 @@ Space model exhibited during summaery2015.
 
 ![Stepper Motor, SilentStepStick & Arduino](https://raw.github.com/leverage-cc/Space-Model-2/master/_assets/stepper-driver-arduino.jpg)
 
-![Computer & Space Model](https://raw.github.com/leverage-cc/Space-Model-2/master/_assets/computer-model.jpg)
+![Computer & Space Model](https://raw.github.com/leverage-cc/Space-Model-2/master/_assets/computer+space-model.jpg)
