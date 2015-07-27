@@ -1,6 +1,6 @@
 # Space Model 2
 Space model exhibited during summaery2015.  
-[blog post](https://leverage.cc/blog/space-model-2)
+**[blog post](https://leverage.cc/blog/space-model-2)**
 
 ![Exhibition](https://raw.github.com/leverage-cc/Space-Model-2/master/_assets/space-model-exhibition.jpg)
 
